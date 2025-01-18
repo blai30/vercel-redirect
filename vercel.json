@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://brianlai.dev/:path*",
+      "permanent": true
+    }
+  ]
+}
